@@ -6,3 +6,4 @@
 2. 2-hellofile: Let's display a file > Script that  Displays the content of the /etc/passwd file.
 3. 3-twofiles: What about 2?> script that displays the content of two files /etc/passwd and /etc/hosts.
 4. 4-lastlines: Last lines of a file > script that displays the last 10 lines of the file /etc/passwd
+5. 5-firstlines:  I'd prefer the first ones actually > script that displays the first 10 lines of the file /etc/passwd
